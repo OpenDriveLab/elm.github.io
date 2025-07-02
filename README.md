@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> 🌟 Stay up to date at [opendrivelab.com](https://opendrivelab.com/#news)!
+
 # F3RM Website
 
 Project website for the paper "Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation".
